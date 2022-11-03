@@ -26,9 +26,10 @@
 
 <br>
 
+<img align="right" src="https://user-images.githubusercontent.com/74467166/199714875-b9572d0d-2008-4ce4-9c2f-b0754ad9ece1.png" alt="meme-front-back-fullstack" height="200" width="250" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=it-jhack)
 
-<img align="right" src="https://user-images.githubusercontent.com/74467166/199714875-b9572d0d-2008-4ce4-9c2f-b0754ad9ece1.png" alt="meme-front-back-fullstack" height="200" width="250" />
 <p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" />
   I'm a <b>Front-end Vue.js Developer</b>, sometimes Full-Stack — currently working 100% remotely from Brazil;
@@ -39,25 +40,21 @@
 <p>
   ⬇️ You may want to visit my personal webpage:
   <a href="https://thiagoamaral.vercel.app/" target="_blank">
-    <h3>thiagoamaral.vercel.app 🖥️🖱️</h3>
+    <br>
+    🖥️🖱️ thiagoamaral.vercel.app
   </a>
 </p>
 
 <br>
-<br>
-<br>
-
 
 ### <b>Idioms</b>&nbsp;&nbsp;💬
 <hr>
 <img align="right" src="https://user-images.githubusercontent.com/74467166/199714884-023c31b5-46e2-49c1-aa54-f11c28724998.png" alt="meme-mr-worldwide" height="150" width="250" />
-<br>
 <!-- not using table tags because I don't like github's markdown/html table :P -->
 🇧🇷🇵🇹&emsp;<b>Portuguese</b>&emsp;Fluent<br>
 🇬🇧🇺🇸&emsp;<b>English</b>&emsp;&emsp;&nbsp;&nbsp;&nbsp;Fluent<br>
 🇪🇸&emsp;&emsp;<b>Spanish</b>&emsp;&emsp;&ensp;Conversational level is ok<br>
 🇮🇹&emsp;&emsp;<b>Italian</b>&emsp;&emsp;&emsp;&ensp;Able to understand most of it<br>
-<br>
 
 <br>
 <br>
@@ -179,11 +176,8 @@
 </p>
 
 <br>
-<br>
-<br>
 
 <p>
   🔎 Don't forget to check out my Repos, and to <br>make my day by giving a ⭐ if you like them :D
 </p>
-<br>
 <img src="https://user-images.githubusercontent.com/74467166/199714892-a3f3c07e-9f4f-4068-9d77-77184ec7b8a2.png" alt="meme-self-trust" height="250" width="300" />
