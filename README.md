@@ -1,13 +1,23 @@
-<p align="center"><picture>
+<div align="center"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=38&duration=3500&pause=1500&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=38&duration=3500&pause=1500&color=000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
   </picture>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+experience+in+Back-end+and+Cyber+Security+too" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=2000&color=000000&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+background+in+Back-end+and+Cyber+Security+too" />
   </picture>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true" alt="GitHub Stats">
+  </picture>
+</div>
+
+<br>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/tpamaral/?locale=en_US">
