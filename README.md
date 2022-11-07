@@ -1,10 +1,10 @@
 <div align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=38&duration=3500&pause=1500&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=38&duration=3500&pause=1500&color=000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+experience+in+Back-end+and+Cyber+Security+too" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=2000&color=000000&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+background+in+Back-end+and+Cyber+Security+too" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1500&color=F7F7F7&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+experience+in+Back-end+and+Cyber+Security+too" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1500&color=000000&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+background+in+Back-end+and+Cyber+Security+too" />
   </picture>
 </div>
 
@@ -36,8 +36,6 @@
 
 <br>
 
-<img align="right" src="https://user-images.githubusercontent.com/74467166/199714875-b9572d0d-2008-4ce4-9c2f-b0754ad9ece1.png" alt="meme-front-back-fullstack" height="200" width="250" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=it-jhack)
 
 <p>
@@ -59,14 +57,14 @@
 
 ### <b>Idioms</b>&nbsp;&nbsp;💬
 <hr>
-<img align="right" src="https://user-images.githubusercontent.com/74467166/199714884-023c31b5-46e2-49c1-aa54-f11c28724998.png" alt="meme-mr-worldwide" height="150" width="250" />
 <!-- not using table tags because I don't like github's markdown/html table :P -->
 🇧🇷🇵🇹&emsp;<b>Portuguese</b>&emsp;Fluent<br>
 🇬🇧🇺🇸&emsp;<b>English</b>&emsp;&emsp;&nbsp;&nbsp;&nbsp;Fluent<br>
 🇪🇸&emsp;&emsp;<b>Spanish</b>&emsp;&emsp;&ensp;Conversational level is ok<br>
 🇮🇹&emsp;&emsp;<b>Italian</b>&emsp;&emsp;&emsp;&ensp;Able to understand most of it<br>
-
 <br>
+<img src="https://user-images.githubusercontent.com/74467166/199714884-023c31b5-46e2-49c1-aa54-f11c28724998.png" alt="meme-mr-worldwide" height="150" width="250" />
+
 <br>
 
 ###  <b> I Work Daily With&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;Know Well</b>&nbsp;&nbsp;👨🏻‍💻
@@ -165,6 +163,9 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>
   &nbsp;&nbsp;Python<br>
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="15" height="15" />
+  &nbsp;&nbsp;PHP<br>
 </p>
 <br>
 
