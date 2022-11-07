@@ -37,20 +37,21 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=it-jhack)
-
+<br>
 <p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" />
-  I'm a <b>Front-end Vue.js Developer</b>, sometimes Full-Stack — currently working 100% remotely from Brazil;
+  ⬇️ You may want to visit my personal webpage:
+  <a href="https://thiagoamaral.vercel.app/" target="_blank">
+    <br>
+    <br>
+    <img src="https://user-images.githubusercontent.com/74467166/200308707-42eb0208-5456-4c06-9cbf-a6c1e328fa9b.png" />
+  </a>
 </p>
 
 <br>
 
 <p>
-  ⬇️ You may want to visit my personal webpage:
-  <a href="https://thiagoamaral.vercel.app/" target="_blank">
-    <br>
-    🖥️🖱️ thiagoamaral.vercel.app
-  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" />
+  I'm a <b>Front-end Vue.js Developer</b>, sometimes Full-Stack — currently working 100% remotely from Brazil;
 </p>
 
 <br>
@@ -174,7 +175,10 @@
 <img align="right" src="https://media.tenor.com/FhFTkkI6t1QAAAAS/learning-reading.gif" alt="meme-baby-studying" height="150" width="250" />
 <p>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="15" height="15"/>
-  &nbsp;&nbsp;GraphQL<br>
+  &nbsp;&nbsp;GraphQL<br>  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="15" height="15"/>
+  &nbsp;&nbsp;Laravel<br>
 
   <img src="https://user-images.githubusercontent.com/74467166/199715011-1d9dca3f-5f1c-490e-a1cb-f221681ce89b.png" alt="vite-logo" width="15" height="15" />
   &nbsp;&nbsp;Vite<br>
