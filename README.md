@@ -10,15 +10,6 @@
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true&theme=gotham" />
-    <img src="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true" alt="GitHub Stats">
-  </picture>
-</div>
-
-<br>
-
 <p align="center"> 
   <a href="https://www.linkedin.com/in/tpamaral/?locale=en_US">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -36,8 +27,33 @@
 
 <br>
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true" alt="GitHub Stats">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=it-jhack&layout=compact&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=it-jhack&layout=compact" />
+  </picture>
+</div>
+
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=it-jhack)
 <br>
+
+<p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" />
+  I'm a <b>Front-end Vue.js Developer</b>, sometimes Full-Stack — currently working 100% remotely from Brazil;
+</p>
+
 <p>
   ⬇️ You may want to visit my 
   <a href="https://thiagoamaral.vercel.app/" target="_blank">
@@ -48,13 +64,6 @@
     <br>
     <img src="https://user-images.githubusercontent.com/74467166/200308707-42eb0208-5456-4c06-9cbf-a6c1e328fa9b.png" />
   </a>
-</p>
-
-<br>
-
-<p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" />
-  I'm a <b>Front-end Vue.js Developer</b>, sometimes Full-Stack — currently working 100% remotely from Brazil;
 </p>
 
 <br>
