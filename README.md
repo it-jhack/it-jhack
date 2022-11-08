@@ -39,7 +39,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=it-jhack)
 <br>
 <p>
-  ⬇️ You may want to visit my personal webpage:
+  ⬇️ You may want to visit my 
+  <a href="https://thiagoamaral.vercel.app/" target="_blank">
+  personal webpage:
+  </a>
   <a href="https://thiagoamaral.vercel.app/" target="_blank">
     <br>
     <br>
