@@ -193,6 +193,6 @@
 <br>
 
 <p>
-  🔎 Don't forget to check out my Repos, and to <br>make my day by giving a ⭐ if you like them :D
+  🔎 Don't forget to check out my Repos, and to make my day by giving a ⭐ if you like them :D
 </p>
 <img src="https://user-images.githubusercontent.com/74467166/199714892-a3f3c07e-9f4f-4068-9d77-77184ec7b8a2.png" alt="meme-self-trust" height="250" width="300" />
