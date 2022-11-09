@@ -1,10 +1,11 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <div align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=f7f7f7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=3fb580&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1500&color=F7F7F7&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+experience+in+Back-end+and+Cyber+Security+too" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1500&color=000000&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+background+in+Back-end+and+Cyber+Security+too" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1500&color=f7f7f7&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+experience+in+Back-end+and+Cyber+Security+too" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1500&color=3fb580&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+background+in+Back-end+and+Cyber+Security+too" />
   </picture>
 </div>
 
@@ -55,15 +56,15 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true&bg_color=1f222e&hide_border=1&theme=gotham" />
-    <img src="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true" alt="GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true&bg_color=1f222e&hide_border=1&title_color=42b883&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api?username=it-jhack&title_color=3fb580&show_icons=true&border_color=3fb580" alt="GitHub Stats">
   </picture>
 </div>
 <br>
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=it-jhack&layout=compact&bg_color=1f222e&hide_border=1&theme=gotham" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=it-jhack&layout=compact" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=it-jhack&layout=compact&bg_color=1f222e&hide_border=1&title_color=42b883&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=it-jhack&title_color=3fb580&layout=compact&border_color=3fb580" />
   </picture>
 </div>
 
@@ -73,7 +74,12 @@
 <hr>
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg/pull/165" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg/pull/165" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" />
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&bg_color=ffffff&title_color=3fb580&icon_color=3fb580&border_color=3fb580" >
+    </picture>
+  </a>
 </p>
 
 <br>
