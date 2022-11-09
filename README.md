@@ -11,38 +11,19 @@
 <br>
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/tpamaral/?locale=en_US">
+  <a href="https://www.linkedin.com/in/tpamaral/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/thiago_amaral_0x539">
+  <a href="https://www.instagram.com/thiago_amaral_0x539" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;
-  <a href="https://wa.me/5514998416457">
+  <a href="https://wa.me/5514998416457" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.reddit.com/user/it_jhack">
+  <a href="https://www.reddit.com/user/it_jhack" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
 </p>
-
-<br>
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true&theme=gotham" />
-    <img src="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true" alt="GitHub Stats">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=it-jhack&layout=compact&theme=gotham" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=it-jhack&layout=compact" />
-  </picture>
-</div>
 
 <br>
 
@@ -64,6 +45,35 @@
     <br>
     <img src="https://user-images.githubusercontent.com/74467166/200308707-42eb0208-5456-4c06-9cbf-a6c1e328fa9b.png" />
   </a>
+</p>
+
+<br>
+
+### 📊 <b>My Github Stats</b>
+<hr>
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true&bg_color=1f222e&hide_border=1&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api?username=it-jhack&show_icons=true" alt="GitHub Stats">
+  </picture>
+</div>
+<br>
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=it-jhack&layout=compact&bg_color=1f222e&hide_border=1&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=it-jhack&layout=compact" />
+  </picture>
+</div>
+
+<br>
+
+### 🔖 <b>Open-Source Projects I've Contributed to</b>
+<hr>
+<!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg/pull/165" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
 </p>
 
 <br>
