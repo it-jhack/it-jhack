@@ -86,7 +86,7 @@
 
 ### <b>Idioms</b>&nbsp;&nbsp;💬
 <hr>
-<!-- not using table tags because I don't like github's markdown/html table :P -->
+<!-- not using table tags because I don't like github's markdown/html table 😬 -->
 🇧🇷🇵🇹&emsp;<b>Portuguese</b>&emsp;Fluent<br>
 🇬🇧🇺🇸&emsp;<b>English</b>&emsp;&emsp;&nbsp;&nbsp;&nbsp;Fluent<br>
 🇪🇸&emsp;&emsp;<b>Spanish</b>&emsp;&emsp;&ensp;Conversational level is ok<br>
@@ -96,127 +96,71 @@
 
 <br>
 
-###  <b> I Work Daily With&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;Know Well</b>&nbsp;&nbsp;👨🏻‍💻
+###  <b> I Work Daily With&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;Have Worked in the Past</b>&nbsp;&nbsp;👨🏻‍💻
 <hr>
 <img align="right" src="https://media.tenor.com/pVwOAuOdI4MAAAAC/jim-carrey-bruce-almighty.gif" alt="meme-jim-carrey-typing" height="150" width="250" />
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="15" height="15" />
-  &nbsp;&nbsp;Vue.js<br>
+  &nbsp;&nbsp;Vue.js, Vuex, Nuxt.js, Vue Router<br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" width="15" height="15"  />
-  &nbsp;&nbsp;Nuxt.js/SSR<br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15"/>
-  &nbsp;&nbsp;HTML5<br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/>
-  &nbsp;&nbsp;Javascript ES6<br>
+  <img src="https://user-images.githubusercontent.com/74467166/225890211-ca341e7a-d66d-4d98-9a0a-fdf559ef64af.png" alt="html5-javascript-css3" width="15" height="15"/>
+  &nbsp;&nbsp;HTML5, JavaScript, CSS3<br>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15"/>
   &nbsp;&nbsp;Typescript<br>
 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass-scss" width="15" height="15"/>
+  &nbsp;&nbsp;SASS, SCSS<br>
+
   <img src="https://user-images.githubusercontent.com/74467166/199714985-419a3994-9c80-4475-9d15-edb6a28b39f1.png" alt="axios-logo" width="15" height="15" />
-  &nbsp;&nbsp;Axios<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199715002-55fd1886-64d5-4f69-affc-dc96b8d6070f.png" alt="restful-logo" width="15" height="15" />
-  &nbsp;&nbsp;RESTful APIs<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199714979-2f71982c-cb18-46c5-b410-a97a5d4e8b9a.png" alt="async-logo" width="15" height="15" />
-  &nbsp;&nbsp;Sync/Async Requests<br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="15" height="15"/>
-  &nbsp;&nbsp;CSS3<br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="15" height="15"/>
-  &nbsp;&nbsp;Sass/Scss<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199714992-f1bab8fc-f8b2-467c-9526-e2100246ae3a.png" alt="flexbox-logo" width="15" height="15" />
-  &nbsp;&nbsp;Flexbox/Grid<br>
+  &nbsp;&nbsp;Axios, REST API, Sync/Async Requests<br>
 
   <img src="https://user-images.githubusercontent.com/74467166/199714993-cf4cba78-fa57-45b2-a8da-c40c99dbce57.png" alt="incognito-logo" width="15" height="15" />
   &nbsp;&nbsp;Cyber Security, XSS, SQLi<br>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="15" height="15"/>
-  &nbsp;&nbsp;Bash/Linux<br>
+  &nbsp;&nbsp;Bash, Linux Terminal<br>
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="15" height="15"/>
   &nbsp;&nbsp;Git (terminal)<br>
 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="15" height="15"/>
-  &nbsp;&nbsp;Postman/Insomnia<br>
+  &nbsp;&nbsp;Postman, Insomnia<br>
 </p>
 <br>
 
-### <b>I Can Get My Way Around</b>&nbsp;&nbsp;🤔
+### <b>I Have Familiarity With</b>&nbsp;&nbsp;
 <hr>
 <img align="right" src="https://media.tenor.com/5vo_w_jDfwgAAAAC/calculation-math.gif" alt="meme-math-calculations" height="150" width="250" />
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="bootstrap" width="15" height="15" />
-  &nbsp;&nbsp;Vuetify<br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="15" height="15"/>
-  &nbsp;&nbsp;Bootstrap<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/>
+  &nbsp;&nbsp;React, Next.js<br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" height="15" width="15"/>
   &nbsp;&nbsp;Tailwind CSS<br>
 
-  <img src="https://user-images.githubusercontent.com/74467166/199715009-1956e3c9-0839-413c-93e3-99d93d12aa50.png" alt="seo-logo" width="15" height="15" />
-  &nbsp;&nbsp;SEO<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199714987-c1c1208d-e32f-47eb-af34-702ddf35ae5d.png" alt="cypress-logo" width="15" height="15" />
-  &nbsp;&nbsp;Cypress<br>
-
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="15" height="15"/>
-  &nbsp;&nbsp;Jest<br>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="15" height="15"/>
-  &nbsp;&nbsp;Node.js<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199714991-1ae62d5b-0fd0-415a-b45d-896e5f753a58.png" alt="express-logo" width="15" height="15" />
-  &nbsp;&nbsp;Express.js<br>
+  &nbsp;&nbsp;Node.js, Express.js<br>
 
   <img src="https://user-images.githubusercontent.com/74467166/199714997-924bbf19-f0b7-4b9e-9294-bb2496cd1bde.png" alt="mysql-logo" width="15" height="15" />
-  &nbsp;&nbsp;MySQL<br>
+  &nbsp;&nbsp;MySQL, NoSQL<br>
 
-  <img src="https://user-images.githubusercontent.com/74467166/199715002-55fd1886-64d5-4f69-affc-dc96b8d6070f.png" alt="nosql-logo" width="15" height="15" />
-  &nbsp;&nbsp;NoSQL<br>
+  <img src="https://user-images.githubusercontent.com/74467166/199715009-1956e3c9-0839-413c-93e3-99d93d12aa50.png" alt="seo-logo" width="15" height="15" />
+  &nbsp;&nbsp;SEO<br>
 
   <img src="https://user-images.githubusercontent.com/74467166/199714982-35750214-1081-4806-8f69-dfecac9d398c.png" alt="aws-logo" width="15" height="15" />
   &nbsp;&nbsp;AWS<br>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/>
-  &nbsp;&nbsp;React<br>
+  <img src="https://user-images.githubusercontent.com/74467166/199714987-c1c1208d-e32f-47eb-af34-702ddf35ae5d.png" alt="cypress-logo" width="15" height="15" />
+  &nbsp;&nbsp;Cypress, Jest<br>
 
-  <img src="https://user-images.githubusercontent.com/74467166/199715001-2a7c6722-15be-4bca-b16e-a116ba06a5e1.png" alt="nextjs-logo" width="15" height="15" />
-  &nbsp;&nbsp;Next.js<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="15" height="15" />
+  &nbsp;&nbsp;PHP<br>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>
   &nbsp;&nbsp;Python<br>
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="15" height="15" />
-  &nbsp;&nbsp;PHP<br>
 </p>
 <br>
-
-### <b>&nbsp;My To-Learn List</b>&nbsp;&nbsp;📚
-<hr>
-<img align="right" src="https://media.tenor.com/FhFTkkI6t1QAAAAS/learning-reading.gif" alt="meme-baby-studying" height="150" width="250" />
-<p>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="15" height="15"/>
-  &nbsp;&nbsp;GraphQL<br>  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="15" height="15"/>
-  &nbsp;&nbsp;Laravel<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199715011-1d9dca3f-5f1c-490e-a1cb-f221681ce89b.png" alt="vite-logo" width="15" height="15" />
-  &nbsp;&nbsp;Vite<br>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="15" height="15" />
-  &nbsp;&nbsp;Go<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199715006-b4acc9a1-33fd-4dac-9d2f-dd3b1f24b815.png" alt="rust-logo" width="15" height="15" />
-  &nbsp;&nbsp;Rust<br>
-</p>
 
 <br>
 
