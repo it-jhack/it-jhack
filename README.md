@@ -33,7 +33,7 @@
 
 <p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" />
-  I'm a <b>Front-end Vue.js Developer</b>, sometimes Full-Stack — currently working 100% remotely from Brazil;
+  I'm a <b>Fullstack Developer</b> currently working 100% remotely
 </p>
 
 <p>
@@ -70,19 +70,21 @@
 
 <br>
 
-### 📦 <b>Recent Personal Projects</b>
+
+### 💻 <b>Open-Source Projects I've Contributed to</b>
 <hr>
 <p align="left">
-  <a href="https://github.com/it-jhack/awesome-ai-tldr"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=it-jhack&repo=awesome-ai-tldr&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/it-jhack/awesome-frontend-tldr"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=it-jhack&repo=awesome-frontend-tldr&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg/pull/165"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats" alt="readme-typing-svg"></a>
+  <a href="https://github.com/zzetao/awesome-github-profile/pull/13"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zzetao&repo=awesome-github-profile&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats" alt="awesome-github-profile"></a>
 </p>
 
 <br>
 
-### 🔖 <b>Open-Source Projects I've Contributed to</b>
+### 💡 <b>Recent Personal Projects</b>
 <hr>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats" alt="readme-typing-svg"></a>
+  <a href="https://github.com/it-jhack/awesome-ai-tldr"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=it-jhack&repo=awesome-ai-tldr&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/it-jhack/awesome-frontend-tldr"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=it-jhack&repo=awesome-frontend-tldr&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats"></a>
 </p>
 
 <br>
@@ -109,26 +111,35 @@
   <img src="https://user-images.githubusercontent.com/74467166/225890211-ca341e7a-d66d-4d98-9a0a-fdf559ef64af.png" alt="html5-javascript-css3" width="15" height="15"/>
   &nbsp;&nbsp;HTML5, JavaScript, CSS3<br>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15"/>
-  &nbsp;&nbsp;Typescript<br>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass-scss" width="15" height="15"/>
   &nbsp;&nbsp;SASS, SCSS<br>
 
   <img src="https://user-images.githubusercontent.com/74467166/199714985-419a3994-9c80-4475-9d15-edb6a28b39f1.png" alt="axios-logo" width="15" height="15" />
   &nbsp;&nbsp;Axios, REST API, Sync/Async Requests<br>
 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="15" height="15"/>
+  &nbsp;&nbsp;Node.js, Express.js<br>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15"/>
+  &nbsp;&nbsp;Typescript<br>
+
+  <img src="https://user-images.githubusercontent.com/74467166/199714997-924bbf19-f0b7-4b9e-9294-bb2496cd1bde.png" alt="mysql-logo" width="15" height="15" />
+  &nbsp;&nbsp;MySQL, NoSQL<br>
+
+  <img src="https://user-images.githubusercontent.com/74467166/199714982-35750214-1081-4806-8f69-dfecac9d398c.png" alt="aws-logo" width="15" height="15" />
+  &nbsp;&nbsp;AWS<br>
+
   <img src="https://user-images.githubusercontent.com/74467166/199714993-cf4cba78-fa57-45b2-a8da-c40c99dbce57.png" alt="incognito-logo" width="15" height="15" />
   &nbsp;&nbsp;Cyber Security, XSS, SQLi<br>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="15" height="15"/>
-  &nbsp;&nbsp;Bash, Linux Terminal<br>
+  &nbsp;&nbsp;Bash (linux terminal and scripts)<br>
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="15" height="15"/>
   &nbsp;&nbsp;Git (terminal)<br>
 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="15" height="15"/>
-  &nbsp;&nbsp;Postman, Insomnia<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="15" height="15" />
+  &nbsp;&nbsp;PHP<br>
 </p>
 <br>
 
@@ -136,32 +147,20 @@
 <hr>
 <img align="right" src="https://media.tenor.com/5vo_w_jDfwgAAAAC/calculation-math.gif" alt="meme-math-calculations" height="150" width="250" />
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>
+  &nbsp;&nbsp;Python<br>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/>
   &nbsp;&nbsp;React, Next.js<br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" height="15" width="15"/>
   &nbsp;&nbsp;Tailwind CSS<br>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="15" height="15"/>
-  &nbsp;&nbsp;Node.js, Express.js<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199714997-924bbf19-f0b7-4b9e-9294-bb2496cd1bde.png" alt="mysql-logo" width="15" height="15" />
-  &nbsp;&nbsp;MySQL, NoSQL<br>
-
   <img src="https://user-images.githubusercontent.com/74467166/199715009-1956e3c9-0839-413c-93e3-99d93d12aa50.png" alt="seo-logo" width="15" height="15" />
   &nbsp;&nbsp;SEO<br>
 
-  <img src="https://user-images.githubusercontent.com/74467166/199714982-35750214-1081-4806-8f69-dfecac9d398c.png" alt="aws-logo" width="15" height="15" />
-  &nbsp;&nbsp;AWS<br>
-
   <img src="https://user-images.githubusercontent.com/74467166/199714987-c1c1208d-e32f-47eb-af34-702ddf35ae5d.png" alt="cypress-logo" width="15" height="15" />
   &nbsp;&nbsp;Cypress, Jest<br>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="15" height="15" />
-  &nbsp;&nbsp;PHP<br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>
-  &nbsp;&nbsp;Python<br>
 </p>
 <br>
 
@@ -170,4 +169,3 @@
 <p>
   🔎 Don't forget to check out my Repos, and to make my day by giving a ⭐ if you like them :D
 </p>
-<img src="https://user-images.githubusercontent.com/74467166/199714892-a3f3c07e-9f4f-4068-9d77-77184ec7b8a2.png" alt="meme-self-trust" height="250" width="300" />
