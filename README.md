@@ -1,10 +1,10 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <div align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=f7f7f7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Fullstack+Developer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=f7f7f7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Full+Stack+Developer" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=3fb580&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1500&color=f7f7f7&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;with+some+experience+in+cyber+security+too" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1500&color=f7f7f7&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;I+value+solutions+over+tools" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1500&color=3fb580&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+background+in+Back-end+and+Cyber+Security+too" />
   </picture>
 </div>
@@ -33,7 +33,7 @@
 
 <p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" />
-  I'm a <b>Fullstack Developer</b> currently working 100% remotely
+  I'm a <b>Full Stack Developer</b> having experience with Vue, Node.js, TypeScript, MySQL and AWS (Cloud Practitioner Certification)
 </p>
 
 <p>
@@ -44,7 +44,7 @@
   <a href="https://thiagoamaral.vercel.app/" target="_blank">
     <br>
     <br>
-    <img src="https://user-images.githubusercontent.com/74467166/200308707-42eb0208-5456-4c06-9cbf-a6c1e328fa9b.png" />
+    <img src="https://github.com/it-jhack/it-jhack/assets/74467166/fdea9c1b-97f8-4a6f-9cf9-ae3caf0ebb43" />
   </a>
 </p>
 
@@ -76,15 +76,6 @@
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg/pull/165"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats" alt="readme-typing-svg"></a>
   <a href="https://github.com/zzetao/awesome-github-profile/pull/13"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zzetao&repo=awesome-github-profile&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats" alt="awesome-github-profile"></a>
-</p>
-
-<br>
-
-### 💡 <b>Recent Personal Projects</b>
-<hr>
-<p align="left">
-  <a href="https://github.com/it-jhack/awesome-ai-tldr"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=it-jhack&repo=awesome-ai-tldr&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/it-jhack/awesome-frontend-tldr"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=it-jhack&repo=awesome-frontend-tldr&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats"></a>
 </p>
 
 <br>
@@ -127,19 +118,7 @@
   &nbsp;&nbsp;MySQL, NoSQL<br>
 
   <img src="https://user-images.githubusercontent.com/74467166/199714982-35750214-1081-4806-8f69-dfecac9d398c.png" alt="aws-logo" width="15" height="15" />
-  &nbsp;&nbsp;AWS<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199714993-cf4cba78-fa57-45b2-a8da-c40c99dbce57.png" alt="incognito-logo" width="15" height="15" />
-  &nbsp;&nbsp;Cyber Security, XSS, SQLi<br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="15" height="15"/>
-  &nbsp;&nbsp;Bash (linux terminal and scripts)<br>
-
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="15" height="15"/>
-  &nbsp;&nbsp;Git (terminal)<br>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="15" height="15" />
-  &nbsp;&nbsp;PHP<br>
+  &nbsp;&nbsp;AWS (Certified)<br>
 </p>
 <br>
 
@@ -150,17 +129,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>
   &nbsp;&nbsp;Python<br>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/>
-  &nbsp;&nbsp;React, Next.js<br>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" height="15" width="15"/>
-  &nbsp;&nbsp;Tailwind CSS<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199715009-1956e3c9-0839-413c-93e3-99d93d12aa50.png" alt="seo-logo" width="15" height="15" />
-  &nbsp;&nbsp;SEO<br>
-
   <img src="https://user-images.githubusercontent.com/74467166/199714987-c1c1208d-e32f-47eb-af34-702ddf35ae5d.png" alt="cypress-logo" width="15" height="15" />
   &nbsp;&nbsp;Cypress, Jest<br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="15" height="15" />
+  &nbsp;&nbsp;PHP<br>
+
+  <span>🤖 AI solutions and APIs</span><br>
 </p>
 <br>
 
