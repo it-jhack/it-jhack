@@ -1,11 +1,7 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <div align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=f7f7f7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Full+Stack+Developer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=f7f7f7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack+🙂;" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=3fb580&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1500&color=f7f7f7&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;I+value+solutions+over+tools" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1500&color=3fb580&center=true&vCenter=true&width=800&lines=I+hope+you+find+what+you're+looking+for+in+here+%F0%9F%99%82;With+some+background+in+Back-end+and+Cyber+Security+too" />
   </picture>
 </div>
 
@@ -20,9 +16,6 @@
   </a>&nbsp;
   <a href="https://wa.me/5514998416457" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.reddit.com/user/it_jhack" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
 </p>
 
@@ -33,7 +26,13 @@
 
 <p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" />
-  I'm a <b>Full Stack Developer</b> having experience with Vue, Node.js, TypeScript, MySQL and AWS (Cloud Practitioner Certification)
+  I'm a <b>Full Stack Developer</b> having experience with <b>Vue, Node.js, TypeScript, MySQL, Python and AWS (Cloud Practitioner Certified)</b>.
+</p>
+
+<p>
+  🛠️ I'm also the creator of
+  <a href="https://ezflashcard.in/" target="_blank">EZflashcard</a> -
+  a flashcard platform made simple without complicated shenanigans. It also has voice commands and autoplay to study while doing chores.
 </p>
 
 <p>
@@ -83,64 +82,11 @@
 ### <b>Idioms</b>&nbsp;&nbsp;💬
 <hr>
 <!-- not using table tags because I don't like github's markdown/html table 😬 -->
-🇧🇷🇵🇹&emsp;<b>Portuguese</b>&emsp;Fluent<br>
-🇬🇧🇺🇸&emsp;<b>English</b>&emsp;&emsp;&nbsp;&nbsp;&nbsp;Fluent<br>
-🇪🇸&emsp;&emsp;<b>Spanish</b>&emsp;&emsp;&ensp;Conversational level is ok<br>
-🇮🇹&emsp;&emsp;<b>Italian</b>&emsp;&emsp;&emsp;&ensp;Able to understand most of it<br>
-<br>
+<pre>
+🇧🇷🇵🇹&#9;<b>Portuguese</b>&#9;Fluent (Native)
+🇬🇧🇺🇸&#9;<b>English</b>&#9;&#9;Fluent
+🇪🇸&#9;<b>Spanish</b>&#9;&#9;Conversational level is ok
+🇮🇹&#9;<b>Italian</b>&#9;&#9;Able to understand most of it
+</pre>
+
 <img src="https://user-images.githubusercontent.com/74467166/199714884-023c31b5-46e2-49c1-aa54-f11c28724998.png" alt="meme-mr-worldwide" height="150" width="250" />
-
-<br>
-
-###  <b> I Work Daily With&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;Have Worked in the Past</b>&nbsp;&nbsp;👨🏻‍💻
-<hr>
-<img align="right" src="https://media.tenor.com/pVwOAuOdI4MAAAAC/jim-carrey-bruce-almighty.gif" alt="meme-jim-carrey-typing" height="150" width="250" />
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="15" height="15" />
-  &nbsp;&nbsp;Vue.js, Vuex, Nuxt.js, Vue Router<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/225890211-ca341e7a-d66d-4d98-9a0a-fdf559ef64af.png" alt="html5-javascript-css3" width="15" height="15"/>
-  &nbsp;&nbsp;HTML5, JavaScript, CSS3<br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass-scss" width="15" height="15"/>
-  &nbsp;&nbsp;SASS, SCSS<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199714985-419a3994-9c80-4475-9d15-edb6a28b39f1.png" alt="axios-logo" width="15" height="15" />
-  &nbsp;&nbsp;Axios, REST API, Sync/Async Requests<br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="15" height="15"/>
-  &nbsp;&nbsp;Node.js, Express.js<br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15"/>
-  &nbsp;&nbsp;Typescript<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199714997-924bbf19-f0b7-4b9e-9294-bb2496cd1bde.png" alt="mysql-logo" width="15" height="15" />
-  &nbsp;&nbsp;MySQL, NoSQL<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199714982-35750214-1081-4806-8f69-dfecac9d398c.png" alt="aws-logo" width="15" height="15" />
-  &nbsp;&nbsp;AWS (Certified)<br>
-</p>
-<br>
-
-### <b>I Have Familiarity With</b>&nbsp;&nbsp;
-<hr>
-<img align="right" src="https://media.tenor.com/5vo_w_jDfwgAAAAC/calculation-math.gif" alt="meme-math-calculations" height="150" width="250" />
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>
-  &nbsp;&nbsp;Python<br>
-
-  <img src="https://user-images.githubusercontent.com/74467166/199714987-c1c1208d-e32f-47eb-af34-702ddf35ae5d.png" alt="cypress-logo" width="15" height="15" />
-  &nbsp;&nbsp;Cypress, Jest<br>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="15" height="15" />
-  &nbsp;&nbsp;PHP<br>
-
-  <span>🤖 AI solutions and APIs</span><br>
-</p>
-<br>
-
-<br>
-
-<p>
-  🔎 Don't forget to check out my Repos, and to make my day by giving a ⭐ if you like them :D
-</p>
